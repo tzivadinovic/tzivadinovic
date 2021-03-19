@@ -1,4 +1,4 @@
-### My code DOESN’T work, I have no idea why. My code WORKS, I have no idea why. Things aren’t always #000000 and #FFFFFF  👋
+### Copy-and-Paste was programmed by programmers for programmers actually.  👋
 
 <!--
 **mislavto/mislavto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
